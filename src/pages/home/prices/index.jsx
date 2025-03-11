@@ -72,7 +72,7 @@ const Prices = () => {
           </div>
         </div>
       </div>
-      <p className="w-[70%] min-[1460px]:mx-auto min-[1460px]:w-[1440px] max-[500px]:w-[90%] mx-auto text-[#787878] text-[13px] mt-10">
+      <p className="w-[70%] min-[1460px]:mx-auto min-[1460px]:w-[840px] max-[500px]:w-[90%] mx-auto text-[#787878] text-[13px] mt-10">
         Стоимость художественной росписи стен в Санкт-Петербурге рассчитывается
         индивидуально. На цену влияет размер рисунка, сложность, особенности
         поверхности и вид материалов. При заказе большого объема мы делаем
@@ -82,7 +82,7 @@ const Prices = () => {
         сайте.
       </p>
 
-      <div className="py-20 w-[50%] min-[1460px]:mx-auto min-[1460px]:w-[1440px] mx-auto max-[840px]:w-[90%]">
+      <div className="py-20 w-[50%] min-[1460px]:mx-auto min-[1460px]:w-[840px] mx-auto max-[840px]:w-[90%]">
         <div className="rounded-2xl bg-[#f9f9f9] py-[30px] px-16 max-[500px]:px-4 ">
           <div className="flex items-center justify-between gap-3 max-[1050px]:flex-col">
             <h1 className="font-bold  text-[20px] ">Заказать роспись стен</h1>
